@@ -31,6 +31,11 @@ Full-stack developer (TypeScript / Next.js) ที่ชอบทำระบบ
 🔗 [www.aplabstudio.com](https://www.aplabstudio.com/)
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
+### Mini Shop — ร้านค้าออนไลน์พร้อมระบบจ่ายเงิน
+ตะกร้าสินค้า กันสต๊อก จ่ายผ่าน Stripe Checkout (บัตร/พร้อมเพย์) รับ webhook และคืนเงินจากหลังร้าน (โหมด sandbox)
+🔗 [หน้าร้าน](https://mini-shop-staging.kruadee-pos.workers.dev) · [หลังร้าน](https://mini-shop-staging.kruadee-pos.workers.dev/admin)
+`Stripe` `Cloudflare Workers`
+
 ## 📫 ติดต่อ
 
 - Website: [aplabstudio.com](https://www.aplabstudio.com/)
