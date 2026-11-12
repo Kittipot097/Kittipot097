@@ -8,7 +8,7 @@ Full-stack developer (TypeScript / Next.js) ที่ชอบทำระบบ
 
 - **Frontend:** TypeScript, React, Next.js (App Router), Tailwind CSS
 - **Backend / Data:** Node.js, Supabase (Postgres + Storage), Cloudflare Workers, REST API
-- **AI:** LLM structured outputs (Claude, Gemini, OpenAI), OCR (Tesseract, Typhoon OCR), RAG, Python สำหรับ benchmark โมเดล
+- **AI:** LLM structured outputs (Claude, Gemini, OpenAI), OCR (Tesseract, Typhoon OCR), VLM (Qwen2.5-VL, Donut, LayoutLMv3), RAG, Python สำหรับ benchmark โมเดล
 - **Integrations:** LINE Messaging API, Stripe Checkout, PromptPay QR
 - **Tools:** Git / GitHub Actions, Playwright, Vercel, Flutter (Dart)
 
